@@ -5,9 +5,10 @@
 
 Сборочный репозиторий проекта. 
 
-Код проекта находится в двух репозиториях:
-- backend `git clone https://github.com/Kdkulakov/debunker-backend.git`
-- frontend `git clone https://github.com/Kdkulakov/debunker-frontend`
+Код проекта находится в репозиториях:
+- backend `git clone [https://github.com/Kdkulakov/debunker-backend.git](https://github.com/Kdkulakov/debunker-backend.git)`
+- frontend `git clone [https://github.com/Kdkulakov/debunker-frontend](https://github.com/Kdkulakov/debunker-frontend.git)`
+- ml `git clone [https://github.com/Kdkulakov/debunker-ml](https://github.com/Kdkulakov/debunker-ml.git)`
 
 #### Возможности
 * загрузка и хранение новости для исследования
