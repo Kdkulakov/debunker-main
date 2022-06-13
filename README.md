@@ -1,4 +1,4 @@
-# debunker-main
+# debunker-main [http://debunker.ru/](http://debunker.ru/)
 *debunker* - от английского *разоблачитель*. Рабочее название нашего инструмента по поиску и выявлению fakenews.
 
 Зарегистрирован домен [debunker.ru]"debunker.ru"
